@@ -1,6 +1,5 @@
 /*
- * Name: Florian Kieninger
- * ID: S1510455013
+ * @author: Florian Kieninger - S1510455013
  */
 package at.fhhagenberg.sqe.exercise1.ui;
 
