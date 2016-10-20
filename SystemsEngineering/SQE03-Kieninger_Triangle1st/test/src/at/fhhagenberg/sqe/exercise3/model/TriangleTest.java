@@ -1,3 +1,6 @@
+/*
+ * Florian Kieninger - S1510455013
+ */
 package at.fhhagenberg.sqe.exercise3.model;
 
 import junit.framework.TestCase;
